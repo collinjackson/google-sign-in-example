@@ -1,0 +1,7 @@
+name: google_example
+description: Create a new Flutter project.
+dependencies:
+  google_sign_in:
+    git: git://github.com/flutter/google-sign-in.git
+  flutter:
+    path: ../flutter/packages/flutter
