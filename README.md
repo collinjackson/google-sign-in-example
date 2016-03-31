@@ -1,8 +1,10 @@
-# google_example
+# Google Sign In Example
 
-Create a new Flutter project.
+This Flutter example project shows how to use the
+[google_sign_in Dart package](https://github.com/flutter/google-sign-in).
 
-## Getting Started
+To run the example, type ```flutter run```. (You may need to update the path
+to flutter in pubspec.yaml.)
 
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+Note: The Google Sign-In SDK is currently only supported on iOS. Android support
+is coming soon!
