@@ -26,7 +26,7 @@ class SignInDemo extends StatefulWidget {
 
 class SignInDemoState extends State<SignInDemo> {
   // Update this string with your app's client id
-  static const String _kClientId = "946753052256-p2hquhnnljeql0ips9v6kq9q7719an0i.apps.googleusercontent.com";
+  static const String _kClientId = "946753052256-j58q7kn21j491vfn5m5v56bblgcpevgg.apps.googleusercontent.com";
 
   GoogleSignIn _gsi;
   GoogleSignInUser _currentUser;
